@@ -1,4 +1,3 @@
-
 <!--
   README.md | Ganesh A | Premium Developer Portfolio
   Ultra-modern, glassy, max-width, next-level crazy header animation/effects, classified stack, all icons visible.
@@ -97,6 +96,10 @@
   </div>
 </div>
 
+<!-- ====== PROFILE OVERVIEW HEADING ====== -->
+<div style="display: flex; align-items: center; font-size: 1.38em; color: #00E5FF; margin-bottom: 20px;">
+  <h2 style="margin:0;">Profile Overview</h2>
+</div>
 <!-- ====== PROFILE OVERVIEW, NO TEXT CONTENT ====== -->
 <div align="center" style="margin: 110px 0;">
   <table width="98%" style="border: none; background: linear-gradient(135deg, #171c22 70%, #23293b 100%); border-radius: 24px; box-shadow: 0 8px 32px rgba(0, 229, 255, 0.22); padding: 0;">
@@ -117,8 +120,12 @@
   </table>
 </div>
 
+<!-- ====== TECH STACK HEADING ====== -->
+<div style="display: flex; align-items: center; font-size: 1.38em; color: #00E5FF; margin-bottom: 20px;">
+  <h2 style="margin:0;">Tech Stack</h2>
+</div>
 <!-- ====== TECH STACK SECTION: CLASSIFIED, MAX WIDTH, JUSTIFIED ====== -->
-<div align="center" style="margin: 120px 0;">
+<div align="center" style="margin: 120px 0; ">
   <table width="99%" style="border:none; background:rgba(33,38,54,0.99); border-radius:28px; box-shadow:0 8px 32px #00e5e533; padding:0;">
     <tr>
       <td align="center" style="padding:60px 0;">
@@ -173,7 +180,11 @@
     </tr>
   </table>
 </div>
-
+<br />
+<!-- ====== PREMIUM PROJECTS HEADING ====== -->
+<div style="display: flex; align-items: center; font-size: 1.38em; color: #00E5FF; margin-bottom: 20px;">
+  <h2 style="margin:0;">Premium Projects</h2>
+</div>
 <!-- ====== PREMIUM PROJECTS SHOWCASE: NO TEXT CONTENT, RELIABLE IMAGE FOR WEBSITE ====== -->
 <div align="center" style="margin: 120px 0;">
   <table width="98%" style="border-spacing: 38px 40px; table-layout: fixed;">
@@ -181,7 +192,7 @@
       <!-- Law Sphere -->
       <td width="33%" valign="top" align="center" style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); border-radius: 25px; box-shadow: 0 12px 35px rgba(30, 60, 114, 0.3); padding: 44px 18px;">
         <a href="https://law-sphere.web.app/" target="_blank">
-          <img src="https://raw.githubusercontent.com/Impact-10/Law-sphere/main/public/Law-Sphere.png" width="90" style="margin-bottom: 28px; border-radius:18px; box-shadow:0 6px 24px #00e5e555;">
+          <img src="https://raw.githubusercontent.com/Impact-10/Law-sphere/main/public/Law-Sphere1.png" width="90" style="margin-bottom: 28px; border-radius:18px; box-shadow:0 6px 24px #00e5e555;">
         </a>
         <div style="margin-bottom:20px;">
           <a href="https://law-sphere.web.app/" target="_blank">
@@ -195,7 +206,7 @@
       <!-- VendorVista -->
       <td width="33%" valign="top" align="center" style="background: linear-gradient(135deg, #232526 90%, #0f2027 100%); border-radius: 25px; box-shadow: 0 12px 35px #23252622; padding: 44px 18px;">
         <a href="https://vendorvista-9jbj.onrender.com/" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/138701354?s=200&v=4" width="90" style="margin-bottom: 28px; border-radius:18px; box-shadow:0 6px 24px #23252622;">
+          <img src="https://raw.githubusercontent.com/Impact-10/Impact-10/main/VendorVista.webp" width="90" style="margin-bottom: 28px; border-radius:18px; box-shadow:0 6px 24px #00e5e555;">
         </a>
         <div style="margin-bottom:20px;">
           <a href="https://vendorvista-9jbj.onrender.com/" target="_blank">
@@ -209,7 +220,7 @@
       <!-- DNX -->
       <td width="33%" valign="top" align="center" style="background: linear-gradient(135deg, #f5576c 90%, #232526 100%); border-radius: 25px; box-shadow: 0 12px 35px #f5576c22; padding: 44px 18px;">
         <a href="https://github.com/Impact-10/GlitchCon" target="_blank">
-          <img src="https://raw.githubusercontent.com/Impact-10/GlitchCon/main/public/favicon.svg" width="90" style="margin-bottom: 28px; border-radius:18px; box-shadow:0 6px 24px #f5576c44;">
+          <img src="https://raw.githubusercontent.com/Impact-10/GlitchCon/main/logo.jpg" width="90" style="margin-bottom: 28px; border-radius:18px; box-shadow:0 6px 24px #00e5e555;">
         </a>
         <div style="margin-bottom:20px;">
           <a href="https://github.com/Impact-10/GlitchCon" target="_blank">
@@ -220,21 +231,23 @@
     </tr>
   </table>
 </div>
-
+<br />
 <!-- ====== GITHUB ANALYTICS SHOWING BY DEFAULT WITH ICON ====== -->
+<div style="display: flex; align-items: center; font-size: 1.38em; color: #00E5FF; margin-bottom: 20px;">
+  <h2 style="margin:0;">GitHub Analytics</h2>
+</div>
 <div align="center" style="margin: 120px 0;">
-  <div style="display: flex; align-items: center; font-size: 1.38em; color: #00E5FF; margin-bottom: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/graph.svg" style="width:28px; margin-right:10px; vertical-align:middle;" />
-    <strong>GitHub Analytics</strong>
-  </div>
   <div style="margin: 30px 0;">
     <img width="48%" height="180px" src="https://github-readme-stats.vercel.app/api?username=Impact-10&show_icons=true&count_private=true&hide_border=true&title_color=00E5FF&icon_color=00E676&text_color=ffffff&bg_color=1a1a2e&border_radius=15" />
     <img width="48%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Impact-10&layout=compact&hide_border=true&title_color=00E5FF&text_color=ffffff&bg_color=1a1a2e&langs_count=8&border_radius=15" />
   </div>
   <img src="https://streak-stats.demolab.com/?user=Impact-10&theme=tokyonight&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&ring=00E5FF&fire=00E676&currStreakLabel=00E5FF" />
 </div>
-
+<br />
 <!-- ====== CONTACT SECTION ====== -->
+<div style="display: flex; align-items: center; font-size: 1.38em; color: #00E5FF; margin-bottom: 20px;">
+  <h2 style="margin:0;">Connect & Collaborate</h2>
+</div>
 <div align="center" style="margin: 120px 0 90px 0;">
   <table style="border-spacing: 40px 0;">
     <tr>
@@ -259,7 +272,7 @@
     </tr>
   </table>
 </div>
-
+<br />
 <!-- ====== FOOTER ====== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer&animation=fadeIn" />
