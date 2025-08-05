@@ -181,7 +181,7 @@
       <!-- Law Sphere -->
       <td width="33%" valign="top" align="center" style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); border-radius: 25px; box-shadow: 0 12px 35px rgba(30, 60, 114, 0.3); padding: 44px 18px;">
         <a href="https://law-sphere.web.app/" target="_blank">
-          <img src="https://raw.githubusercontent.com/Impact-10/Law-sphere/main/public/law-sphere-logo.svg" width="90" style="margin-bottom: 28px; border-radius:18px; box-shadow:0 6px 24px #00e5e555;">
+          <img src="https://raw.githubusercontent.com/Impact-10/Law-sphere/main/public/Law-Sphere.png" width="90" style="margin-bottom: 28px; border-radius:18px; box-shadow:0 6px 24px #00e5e555;">
         </a>
         <div style="margin-bottom:20px;">
           <a href="https://law-sphere.web.app/" target="_blank">
