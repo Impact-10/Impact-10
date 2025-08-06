@@ -237,7 +237,7 @@
     <img width="48%" height="180px" src="https://github-readme-stats.vercel.app/api?username=Impact-10&show_icons=true&count_private=true&hide_border=true&title_color=00E5FF&icon_color=00E676&text_color=ffffff&bg_color=1a1a2e&border_radius=15" />
     <img width="48%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Impact-10&layout=compact&hide_border=true&title_color=00E5FF&text_color=ffffff&bg_color=1a1a2e&langs_count=8&border_radius=15" />
   </div>
-  <img src="https://streak-stats.demolab.com/?user=Impact-10&theme=tokyonight&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&ring=00E5FF&fire=00E676&currStreakLabel=00E5FF" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Impact-10&theme=tokyonight&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&ring=00E5FF&fire=00E676&currStreakLabel=00E5FF" />
 </div>
 <br />
 <!-- ====== CONTACT SECTION ====== -->
