@@ -64,12 +64,8 @@
     </div>
     <!-- Subtitle 2: Android focus, crazy span highlight -->
     <div style="font-size:1.25em; font-weight:700; letter-spacing:2.5px; margin-top: 0; margin-bottom:0;">
-      <span style="background: linear-gradient(90deg,#b388ff,#00eaff,#00e676,#b388ff 85%);
-                   background-clip: text; -webkit-background-clip: text; color: transparent; -webkit-text-fill-color: transparent; 
-                   font-weight:900; padding: 0 8px;
-                   text-shadow: 0 0 16px #00eaff66;
-                   animation: crazyHeaderBG 6.5s linear infinite;">
-        Learning Android (Kotlin, Jetpack Compose)
+      <span style="color: #00eaff; font-weight: 900; text-shadow: 0 0 10px #00eaff99;">
+          Learning Android (Kotlin, Jetpack Compose)
       </span>
     </div>
     <div style="position:absolute;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:5;opacity:0.15;mix-blend-mode:screen;animation:scanline 4.5s linear infinite;">
@@ -90,35 +86,35 @@
 
   <!-- Subheader with rainbow typing, flicker, and highlight -->
   <div style="margin: 54px 0 0 0;">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=1000&pause=600&color=00FFF9&center=true&lines=%F0%9F%8C%88+Building+the+Future+with+Code+%F0%9F%94%A5;AI+Driven+Innovation+%E2%9C%A8;Open+Source+%7C+Web+%7C+Mobile+%7C+ML"
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=1000&pause=600&color=00FFF9&center=true&width=850&lines=Building+the+Future+with+Code;AI+Driven+Innovation;Open+Source+%7C+Web+%7C+Mobile+%7C+ML"
          alt="Dynamic intro"
          style="filter:drop-shadow(0 0 12px #00eaffcc);"/>
   </div>
-</div>
-
 <!-- ====== PROFILE OVERVIEW HEADING ====== -->
 <div style="display: flex; align-items: center; font-size: 1.38em; color: #00E5FF; margin-bottom: 20px;">
   <h2 style="margin:0;">Profile Overview</h2>
 </div>
 <!-- ====== PROFILE OVERVIEW, NO TEXT CONTENT ====== -->
 <div align="center" style="margin: 110px 0;">
-  <table width="98%" style="border: none; background: linear-gradient(135deg, #171c22 70%, #23293b 100%); border-radius: 24px; box-shadow: 0 8px 32px rgba(0, 229, 255, 0.22); padding: 0;">
+  <table width="98%" style="border: none; background: linear-gradient(135deg, #171c22 70%, #23293b 100%); border-radius: 24px; box-shadow: 0 8px 32px rgba(0, 229, 255, 0.22);">
     <tr>
-      <td align="center" width="180" style="padding: 46px 0;">
-        <img src="https://avatars.githubusercontent.com/u/102413527?v=4" width="130" style="border-radius:18px; background:#fff; padding:7px; box-shadow:0 0 0 4px #00e5e544;">
+      <!-- Avatar -->
+      <td align="center" width="180" style="padding: 40px 0;">
+        <img src="https://avatars.githubusercontent.com/u/102413527?v=4" width="130" style="border-radius: 18px; background: #fff; padding: 7px;">
       </td>
-      <td align="left" style="padding-left: 48px;">
-        <div style="font-size:2.1em; color:#fff; font-weight:900; letter-spacing:0.08em; margin-bottom:20px;">
+      <td align="left" style="padding: 40px 0;">
+        <div style="font-size: 1.8em; color: #fff; font-weight: bold; margin-bottom: 14px;">
           Ganesh A
         </div>
-        <div style="font-size:1.3em; color:#e5e5e5; font-weight:700; display:flex; align-items:center; gap:16px;">
-          <img src="https://skillicons.dev/icons?i=github" width="36" height="36" style="vertical-align:middle; border-radius:8px; background:#232526; padding:4px; box-shadow:0 0 8px #23252677;" />
-          <span style="color:#00e5e5;font-weight:700;letter-spacing:1.2px;">Impact-10</span>
+        <div style="font-size: 1.1em; color: #00e5e5;">
+          <img src="https://skillicons.dev/icons?i=github" width="32" height="32" style="vertical-align: middle; margin-right: 10px;" />
+          Impact-10
         </div>
       </td>
     </tr>
   </table>
 </div>
+
 
 <!-- ====== TECH STACK HEADING ====== -->
 <div style="display: flex; align-items: center; font-size: 1.38em; color: #00E5FF; margin-bottom: 20px;">
